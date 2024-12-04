@@ -4,7 +4,7 @@ import './App.css';
 
 function Diyes () {
     return(
-        <button>Alibett</button>
+        <button>Alibet Asanov</button>
     )
 }
 
